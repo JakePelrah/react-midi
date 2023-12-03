@@ -1,0 +1,18 @@
+body {
+    background-color: #333;
+}
+
+#permission-span {
+    color: white;
+    font-size: 2em;
+}
+
+img {
+    width: 2em;
+    height: 2em;
+    filter: invert(67%) sepia(79%) saturate(3693%) hue-rotate(80deg) brightness(112%) contrast(133%);
+}
+
+.io-select {
+    background-color: white;
+}
